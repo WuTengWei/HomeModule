@@ -5,10 +5,10 @@ Pod::Spec.new do |s|
 
   s.description      = '首页模块'
 
-  s.homepage         = 'https://github.com/wutengwei/HomeModule'
+  s.homepage         = 'https://github.com/WuTengWei/HomeModule'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'wutengwei' => 'wutengwei@rocedar.com' }
-  s.source           = { :git => 'https://github.com/wutengwei/HomeModule.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/WuTengWei/HomeModule.git', :tag => s.version.to_s }
 
   s.ios.deployment_target = '8.0'
 

@@ -2,8 +2,8 @@
   "name": "HomeModule",
   "version": "0.1.0",
   "summary": "A short description of HomeModule.",
-  "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://github.com/wutengwei/HomeModule",
+  "description": "首页模块",
+  "homepage": "https://github.com/WuTengWei/HomeModule",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
@@ -12,7 +12,7 @@
     "wutengwei": "wutengwei@rocedar.com"
   },
   "source": {
-    "git": "https://github.com/wutengwei/HomeModule.git",
+    "git": "https://github.com/WuTengWei/HomeModule.git",
     "tag": "0.1.0"
   },
   "platforms": {

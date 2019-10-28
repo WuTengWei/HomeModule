@@ -10,6 +10,9 @@
 #endif
 #endif
 
+#import "DetailViewController.h"
+#import "HomePageViewController.h"
+#import "Target_HomeModule.h"
 
 FOUNDATION_EXPORT double HomeModuleVersionNumber;
 FOUNDATION_EXPORT const unsigned char HomeModuleVersionString[];
