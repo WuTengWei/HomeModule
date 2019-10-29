@@ -7,6 +7,7 @@
 //
 
 #import "TWViewController.h"
+#import "Target_HomeModule.h"
 
 @interface TWViewController ()
 

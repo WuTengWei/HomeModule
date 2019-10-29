@@ -13,6 +13,9 @@ NS_ASSUME_NONNULL_BEGIN
 
 - (UIViewController *)Action_viewController:(NSDictionary *)params;
 
+- (UIViewController *)Action_Category_ViewController:(NSDictionary *)params;
+
+- (UIViewController *)Action_pushToDetailController:(NSDictionary *)params;
 @end
 
 NS_ASSUME_NONNULL_END
